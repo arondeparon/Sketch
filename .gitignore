@@ -1,0 +1,6 @@
+.DS_Store
+.svn
+log/*.log
+tmp/**
+offline
+manifest.webapp
